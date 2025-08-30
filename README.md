@@ -51,5 +51,4 @@ model/
 
 ---
 
-**Tác giả:**  
-Bạn có thể bổ sung thông tin liên hệ hoặc đóng góp tại đây.
+
